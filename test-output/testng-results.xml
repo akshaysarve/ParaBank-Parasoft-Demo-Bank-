@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-04T16:13:07 IST" name="Default suite" finished-at="2025-05-04T16:13:22 IST" duration-ms="15168">
+    <groups>
+    </groups>
+    <test started-at="2025-05-04T16:13:07 IST" name="Default test" finished-at="2025-05-04T16:13:22 IST" duration-ms="15168">
+      <class name="com.parasoft.parabank.testcases.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.parasoft.parabank.testcases.Login@42e99e4a]" started-at="2025-05-04T16:13:07 IST" name="setup" finished-at="2025-05-04T16:13:15 IST" duration-ms="8325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateLoginWithValidData()[pri:1, instance:com.parasoft.parabank.testcases.Login@42e99e4a]" started-at="2025-05-04T16:13:15 IST" name="validateLoginWithValidData" finished-at="2025-05-04T16:13:19 IST" duration-ms="3657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginWithValidData -->
+        <test-method signature="validateLoginWithInvalidData()[pri:2, instance:com.parasoft.parabank.testcases.Login@42e99e4a]" started-at="2025-05-04T16:13:19 IST" name="validateLoginWithInvalidData" finished-at="2025-05-04T16:13:20 IST" depends-on-methods="com.parasoft.parabank.testcases.Login.validateLoginWithValidData" duration-ms="1150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginWithInvalidData -->
+        <test-method signature="validateLoginWithBlankFields()[pri:3, instance:com.parasoft.parabank.testcases.Login@42e99e4a]" started-at="2025-05-04T16:13:20 IST" name="validateLoginWithBlankFields" finished-at="2025-05-04T16:13:22 IST" depends-on-methods="com.parasoft.parabank.testcases.Login.validateLoginWithValidData" duration-ms="1429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginWithBlankFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parasoft.parabank.testcases.Login@42e99e4a]" started-at="2025-05-04T16:13:22 IST" name="tearDown" finished-at="2025-05-04T16:13:22 IST" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parasoft.parabank.testcases.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
