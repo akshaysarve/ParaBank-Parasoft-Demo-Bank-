@@ -58,9 +58,9 @@ It is ideal for learning and practicing software testing concepts in the **FinTe
    git clone https://github.com/yourusername/parabank-test-cases.git](https://github.com/akshaysarve/ParaBank-Parasoft-Demo-Bank-.git
    cd parabank-test-cases
 
-✍️ Author
-Akshay Sarve
-Software Test Engineer | Manual + Automation 
-GitHub: @akshaysarve
-Email: sarveakshaysarve@gmail.com
+## ✍️ Author
+- Akshay Sarve
+- Software Test Engineer | Manual + Automation 
+- GitHub: @akshaysarve
+- Email: sarveakshaysarve@gmail.com
 
