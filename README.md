@@ -55,7 +55,7 @@ It is ideal for learning and practicing software testing concepts in the **FinTe
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/parabank-test-cases.git
+   git clone [https://github.com/yourusername/parabank-test-cases.git](https://github.com/akshaysarve/ParaBank-Parasoft-Demo-Bank-.git)
    cd parabank-test-cases
 
 ✍️ Author
